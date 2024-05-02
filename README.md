@@ -37,20 +37,6 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### IzzyOnDroid F-Droid Repo
-
-[https://apt.izzysoft.de/fdroid/repo](https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A)  
-[![](qrcodes/3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A.png)](fdroidrepo://https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A)  
-
----
-
-### IzzyOnDroid F-Droid Repo
-
-[https://apt.izzysoft.de/fdroid/repo](https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A)  
-[![](qrcodes/3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A.png)](fdroidrepo://https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A)  
-
----
-
 ### NewPipe upstream repository
 
 [https://archive.newpipe.net/fdroid/repo](https://archive.newpipe.net/fdroid/repo?fingerprint=E2402C78F9B97C6C89E97DB914A2751FDA1D02FE2039CC0897A462BDB57E7501)  
@@ -107,13 +93,6 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### KDE Android Release Builds
-
-[https://cdn.kde.org/android/stable-releases/fdroid/repo](https://cdn.kde.org/android/stable-releases/fdroid/repo?fingerprint=13784BA6C80FF4E2181E55C56F961EED5844CEA16870D3B38D58780B85E1158F)  
-[![](qrcodes/13784BA6C80FF4E2181E55C56F961EED5844CEA16870D3B38D58780B85E1158F.png)](fdroidrepo://https://cdn.kde.org/android/stable-releases/fdroid/repo?fingerprint=13784BA6C80FF4E2181E55C56F961EED5844CEA16870D3B38D58780B85E1158F)  
-
----
-
 ### Florian Obernberger's F-Droid repo
 
 [https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo](https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo?fingerprint=5E9181C818BD1D28E8642821971C569438DF632E671505FD6E9DB6940722B56F)  
@@ -135,101 +114,10 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### F-Droid Shizuku Privileged Extension Repository
-
-[https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo](https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo?fingerprint=64B2ED80A44B62AF47E6E8F8E92D8CD9371F97B91DCCB01798548279DF0AF69E)  
-[![](qrcodes/64B2ED80A44B62AF47E6E8F8E92D8CD9371F97B91DCCB01798548279DF0AF69E.png)](fdroidrepo://https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo?fingerprint=64B2ED80A44B62AF47E6E8F8E92D8CD9371F97B91DCCB01798548279DF0AF69E)  
-
----
-
 ### DivestOS Official
 
 [https://divestos.org/apks/official/fdroid/repo](https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
 [![](qrcodes/E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467.png)](fdroidrepo://https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-
----
-
-### DivestOS Official
-
-[https://divestos.org/apks/official/fdroid/repo](https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-[![](qrcodes/E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467.png)](fdroidrepo://https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-
----
-
-### DivestOS Official
-
-[https://divestos.org/apks/official/fdroid/repo](https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-[![](qrcodes/E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467.png)](fdroidrepo://https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-
----
-
-### DivestOS Official
-
-[https://divestos.org/apks/official/fdroid/repo](https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-[![](qrcodes/E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467.png)](fdroidrepo://https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-
----
-
-### DivestOS Official
-
-[https://divestos.org/apks/official/fdroid/repo](https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-[![](qrcodes/E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467.png)](fdroidrepo://https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-
----
-
-### DivestOS Official
-
-[https://divestos.org/apks/official/fdroid/repo](https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-[![](qrcodes/E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467.png)](fdroidrepo://https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-
----
-
-### DivestOS Official
-
-[https://divestos.org/apks/official/fdroid/repo](https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-[![](qrcodes/E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467.png)](fdroidrepo://https://divestos.org/apks/official/fdroid/repo?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467)  
-
----
-
-### DivestOS Unofficial
-
-[https://divestos.org/apks/unofficial/fdroid/repo](https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-[![](qrcodes/A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D.png)](fdroidrepo://https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-
----
-
-### DivestOS Unofficial
-
-[https://divestos.org/apks/unofficial/fdroid/repo](https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-[![](qrcodes/A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D.png)](fdroidrepo://https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-
----
-
-### DivestOS Unofficial
-
-[https://divestos.org/apks/unofficial/fdroid/repo](https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-[![](qrcodes/A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D.png)](fdroidrepo://https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-
----
-
-### DivestOS Unofficial
-
-[https://divestos.org/apks/unofficial/fdroid/repo](https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-[![](qrcodes/A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D.png)](fdroidrepo://https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-
----
-
-### DivestOS Unofficial
-
-[https://divestos.org/apks/unofficial/fdroid/repo](https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-[![](qrcodes/A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D.png)](fdroidrepo://https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-
----
-
-### DivestOS Unofficial
-
-[https://divestos.org/apks/unofficial/fdroid/repo](https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
-[![](qrcodes/A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D.png)](fdroidrepo://https://divestos.org/apks/unofficial/fdroid/repo?fingerprint=A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D)  
 
 ---
 
@@ -254,139 +142,6 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid Archive
-
-[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
 ### F-Droid
 
 [https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
@@ -394,129 +149,10 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### F-Droid
+### F-Droid Archive
 
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-
----
-
-### F-Droid
-
-[https://f-droid.org/repo](https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
-[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
+[https://f-droid.org/archive](https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
+[![](qrcodes/43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB.png)](fdroidrepo://https://f-droid.org/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)  
 
 ---
 
@@ -550,13 +186,6 @@ Additional F-droid repos one may want to use. ⭐
 
 ### Cake Labs
 
-[https://fdroid.cakelabs.com/](https://fdroid.cakelabs.com/?fingerprint=EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755)  
-[![](qrcodes/EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755.png)](fdroidrepo://https://fdroid.cakelabs.com/?fingerprint=EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755)  
-
----
-
-### Cake Labs
-
 [https://fdroid.cakelabs.com/fdroid/repo](https://fdroid.cakelabs.com/fdroid/repo?fingerprint=EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755)  
 [![](qrcodes/EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755.png)](fdroidrepo://https://fdroid.cakelabs.com/fdroid/repo?fingerprint=EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755)  
 
@@ -580,20 +209,6 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://fdroid.cgeo.org](https://fdroid.cgeo.org?fingerprint=370BB4D550C391D5DCCB6C81FD82FDA4892964764E085A09B7E075E9BAD5ED98)  
 [![](qrcodes/370BB4D550C391D5DCCB6C81FD82FDA4892964764E085A09B7E075E9BAD5ED98.png)](fdroidrepo://https://fdroid.cgeo.org?fingerprint=370BB4D550C391D5DCCB6C81FD82FDA4892964764E085A09B7E075E9BAD5ED98)  
-
----
-
-### patched-apps
-
-[https://fdroid.cloudfrancois.fr/repos/_NbnpH68Ii3FManCI6WXvAGboCQBn3NX/repo/repo](https://fdroid.cloudfrancois.fr/repos/_NbnpH68Ii3FManCI6WXvAGboCQBn3NX/repo/repo?fingerprint=313D9E6E789FF4E8E2D687AAE31EEF576050003ED67963301821AC6D3763E3AC)  
-[![](qrcodes/313D9E6E789FF4E8E2D687AAE31EEF576050003ED67963301821AC6D3763E3AC.png)](fdroidrepo://https://fdroid.cloudfrancois.fr/repos/_NbnpH68Ii3FManCI6WXvAGboCQBn3NX/repo/repo?fingerprint=313D9E6E789FF4E8E2D687AAE31EEF576050003ED67963301821AC6D3763E3AC)  
-
----
-
-### patched-apps
-
-[https://fdroid.cloudfrancois.fr/repos/_NbnpH68Ii3FManCI6WXvAGboCQBn3NX/repo/repo](https://fdroid.cloudfrancois.fr/repos/_NbnpH68Ii3FManCI6WXvAGboCQBn3NX/repo/repo?fingerprint=313D9E6E789FF4E8E2D687AAE31EEF576050003ED67963301821AC6D3763E3AC)  
-[![](qrcodes/313D9E6E789FF4E8E2D687AAE31EEF576050003ED67963301821AC6D3763E3AC.png)](fdroidrepo://https://fdroid.cloudfrancois.fr/repos/_NbnpH68Ii3FManCI6WXvAGboCQBn3NX/repo/repo?fingerprint=313D9E6E789FF4E8E2D687AAE31EEF576050003ED67963301821AC6D3763E3AC)  
 
 ---
 
@@ -650,13 +265,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo/](https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo/?fingerprint=FD146EF30FA9F8F075BDCD9F02F069D22061B1DF7CC90E90821750A7184BF53D)  
 [![](qrcodes/FD146EF30FA9F8F075BDCD9F02F069D22061B1DF7CC90E90821750A7184BF53D.png)](fdroidrepo://https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo/?fingerprint=FD146EF30FA9F8F075BDCD9F02F069D22061B1DF7CC90E90821750A7184BF53D)  
-
----
-
-### RiotX dev (Fdroid) repo by Krombel
-
-[https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo](https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo?fingerprint=FD146EF30FA9F8F075BDCD9F02F069D22061B1DF7CC90E90821750A7184BF53D)  
-[![](qrcodes/FD146EF30FA9F8F075BDCD9F02F069D22061B1DF7CC90E90821750A7184BF53D.png)](fdroidrepo://https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo?fingerprint=FD146EF30FA9F8F075BDCD9F02F069D22061B1DF7CC90E90821750A7184BF53D)  
+element-dev-fdroid
 
 ---
 
@@ -664,13 +273,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://fdroid.krombel.de/element-dev-gplay/fdroid/repo/](https://fdroid.krombel.de/element-dev-gplay/fdroid/repo/?fingerprint=5564AB4D4BF9461AF7955449246F12D7E792A8D65165EBB2C0E90E65E77D5095)  
 [![](qrcodes/5564AB4D4BF9461AF7955449246F12D7E792A8D65165EBB2C0E90E65E77D5095.png)](fdroidrepo://https://fdroid.krombel.de/element-dev-gplay/fdroid/repo/?fingerprint=5564AB4D4BF9461AF7955449246F12D7E792A8D65165EBB2C0E90E65E77D5095)  
-
----
-
-### RiotX dev (GPlay) repo by Krombel
-
-[https://fdroid.krombel.de/element-dev-gplay/fdroid/repo](https://fdroid.krombel.de/element-dev-gplay/fdroid/repo?fingerprint=5564AB4D4BF9461AF7955449246F12D7E792A8D65165EBB2C0E90E65E77D5095)  
-[![](qrcodes/5564AB4D4BF9461AF7955449246F12D7E792A8D65165EBB2C0E90E65E77D5095.png)](fdroidrepo://https://fdroid.krombel.de/element-dev-gplay/fdroid/repo?fingerprint=5564AB4D4BF9461AF7955449246F12D7E792A8D65165EBB2C0E90E65E77D5095)  
+element-dev-gplay
 
 ---
 
@@ -678,6 +281,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo](https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo?fingerprint=312E07B9444D0D1B615EBBAAC55EA4E5A54E123C3BEFCCA5D18B5E12DFC95BDC)  
 [![](qrcodes/312E07B9444D0D1B615EBBAAC55EA4E5A54E123C3BEFCCA5D18B5E12DFC95BDC.png)](fdroidrepo://https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo?fingerprint=312E07B9444D0D1B615EBBAAC55EA4E5A54E123C3BEFCCA5D18B5E12DFC95BDC)  
+riot-dev-fdroid
 
 ---
 
@@ -692,13 +296,6 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://fdroid.ltheinrich.de/](https://fdroid.ltheinrich.de/?fingerprint=B90FC7691EC5BE977DCBBCB18C3984C794CCAFA5BB8712ED2D64F9FD8703B636)  
 [![](qrcodes/B90FC7691EC5BE977DCBBCB18C3984C794CCAFA5BB8712ED2D64F9FD8703B636.png)](fdroidrepo://https://fdroid.ltheinrich.de/?fingerprint=B90FC7691EC5BE977DCBBCB18C3984C794CCAFA5BB8712ED2D64F9FD8703B636)  
-
----
-
-### Metatrans Apps Repository
-
-[https://fdroid.metatransapps.com/fdroid/repo](https://fdroid.metatransapps.com/fdroid/repo?fingerprint=214027CD55300B837A93B43717B190DD4867CDB20FAABD8853DEF55BD0FF6A0B)  
-[![](qrcodes/214027CD55300B837A93B43717B190DD4867CDB20FAABD8853DEF55BD0FF6A0B.png)](fdroidrepo://https://fdroid.metatransapps.com/fdroid/repo?fingerprint=214027CD55300B837A93B43717B190DD4867CDB20FAABD8853DEF55BD0FF6A0B)  
 
 ---
 
@@ -807,27 +404,6 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### Guardian Project Archive
-
-[https://guardianproject.info/fdroid/archive](https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-[![](qrcodes/B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135.png)](fdroidrepo://https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-
----
-
-### Guardian Project Archive
-
-[https://guardianproject.info/fdroid/archive](https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-[![](qrcodes/B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135.png)](fdroidrepo://https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-
----
-
-### Guardian Project Archive
-
-[https://guardianproject.info/fdroid/archive](https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-[![](qrcodes/B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135.png)](fdroidrepo://https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-
----
-
 ### Guardian Project
 
 [https://guardianproject.info/fdroid/repo](https://guardianproject.info/fdroid/repo?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
@@ -835,17 +411,10 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### Guardian Project
+### Guardian Project Archive
 
-[https://guardianproject.info/fdroid/repo](https://guardianproject.info/fdroid/repo?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-[![](qrcodes/B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135.png)](fdroidrepo://https://guardianproject.info/fdroid/repo?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-
----
-
-### Guardian Project
-
-[https://guardianproject.info/fdroid/repo](https://guardianproject.info/fdroid/repo?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
-[![](qrcodes/B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135.png)](fdroidrepo://https://guardianproject.info/fdroid/repo?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
+[https://guardianproject.info/fdroid/archive](https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
+[![](qrcodes/B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135.png)](fdroidrepo://https://guardianproject.info/fdroid/archive?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135)  
 
 ---
 
@@ -979,13 +548,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo?fingerprint=A9F4730F35858B40CD7ED86E46030644120FB5DFBC1B3366D05CE38A7BDB5C79)  
 [![](qrcodes/A9F4730F35858B40CD7ED86E46030644120FB5DFBC1B3366D05CE38A7BDB5C79.png)](fdroidrepo://https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo?fingerprint=A9F4730F35858B40CD7ED86E46030644120FB5DFBC1B3366D05CE38A7BDB5C79)  
-
----
-
-### Huizengek's apps
-
-[https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo?fingerprint=A9F4730F35858B40CD7ED86E46030644120FB5DFBC1B3366D05CE38A7BDB5C79)  
-[![](qrcodes/A9F4730F35858B40CD7ED86E46030644120FB5DFBC1B3366D05CE38A7BDB5C79.png)](fdroidrepo://https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo?fingerprint=A9F4730F35858B40CD7ED86E46030644120FB5DFBC1B3366D05CE38A7BDB5C79)  
+25huizengek1/fdroid-repo
 
 ---
 
@@ -993,55 +556,30 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo?fingerprint=90B5B0DDE20A84FB42CB960F41D279B0D3BB86578A42E773364A5534C0E8D27A)  
 [![](qrcodes/90B5B0DDE20A84FB42CB960F41D279B0D3BB86578A42E773364A5534C0E8D27A.png)](fdroidrepo://https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo?fingerprint=90B5B0DDE20A84FB42CB960F41D279B0D3BB86578A42E773364A5534C0E8D27A)  
+2br-2b/Fdroid-repo
 
 ---
 
-### 2br-2b's Fdroid Repo
-
-[https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo?fingerprint=90B5B0DDE20A84FB42CB960F41D279B0D3BB86578A42E773364A5534C0E8D27A)  
-[![](qrcodes/90B5B0DDE20A84FB42CB960F41D279B0D3BB86578A42E773364A5534C0E8D27A.png)](fdroidrepo://https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo?fingerprint=90B5B0DDE20A84FB42CB960F41D279B0D3BB86578A42E773364A5534C0E8D27A)  
-
----
-
-### Eastcoast Laboratories FDroid
+### Eastcoast Laboratories FDroid (@Eastcoast-Laboratories)
 
 [https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo](https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo?fingerprint=3354EC6BC19D1E2E36199C15962A927274A0CB39EF810AE692659C1F92AD0EBE)  
 [![](qrcodes/3354EC6BC19D1E2E36199C15962A927274A0CB39EF810AE692659C1F92AD0EBE.png)](fdroidrepo://https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo?fingerprint=3354EC6BC19D1E2E36199C15962A927274A0CB39EF810AE692659C1F92AD0EBE)  
+Eastcoast-Laboratories/FDroid-Repository
 
 ---
 
-### Eastcoast Laboratories FDroid
-
-[https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo](https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo?fingerprint=3354EC6BC19D1E2E36199C15962A927274A0CB39EF810AE692659C1F92AD0EBE)  
-[![](qrcodes/3354EC6BC19D1E2E36199C15962A927274A0CB39EF810AE692659C1F92AD0EBE.png)](fdroidrepo://https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo?fingerprint=3354EC6BC19D1E2E36199C15962A927274A0CB39EF810AE692659C1F92AD0EBE)  
-
----
-
-### Ehviewer-Overhauled Repo
+### Ehviewer-Overhauled Repo (@Ehviewer-Overhauled)
 
 [https://raw.githubusercontent.com/Ehviewer-Overhauled/fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/Ehviewer-Overhauled/fdroid-repo/master/fdroid/repo?fingerprint=7C64E6EF692BBC468B198D4EE518ED1EF03BC7C3B7F1CF80C555570A1B42ECA8)  
 [![](qrcodes/7C64E6EF692BBC468B198D4EE518ED1EF03BC7C3B7F1CF80C555570A1B42ECA8.png)](fdroidrepo://https://raw.githubusercontent.com/Ehviewer-Overhauled/fdroid-repo/master/fdroid/repo?fingerprint=7C64E6EF692BBC468B198D4EE518ED1EF03BC7C3B7F1CF80C555570A1B42ECA8)  
-
----
-
-### Rboard F-Droid Repo
-
-[https://raw.githubusercontent.com/GboardThemes/Repo/master/repo](https://raw.githubusercontent.com/GboardThemes/Repo/master/repo?fingerprint=F6910227B3A8294F9F0739D9FC1A6A2EB27A041276DD0A1CA531318D680B6915)  
-[![](qrcodes/F6910227B3A8294F9F0739D9FC1A6A2EB27A041276DD0A1CA531318D680B6915.png)](fdroidrepo://https://raw.githubusercontent.com/GboardThemes/Repo/master/repo?fingerprint=F6910227B3A8294F9F0739D9FC1A6A2EB27A041276DD0A1CA531318D680B6915)  
+Ehviewer-Overhauled/fdroid-repo
 
 ---
 
 ### My First F-Droid Repo Demo
-
 [https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo?fingerprint=C2F6087578700AE3FB9F5C910A74507330C3E3D38D91D97E780E156366D2F8E9)  
 [![](qrcodes/C2F6087578700AE3FB9F5C910A74507330C3E3D38D91D97E780E156366D2F8E9.png)](fdroidrepo://https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo?fingerprint=C2F6087578700AE3FB9F5C910A74507330C3E3D38D91D97E780E156366D2F8E9)  
-
----
-
-### My First F-Droid Repo Demo
-
-[https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo?fingerprint=C2F6087578700AE3FB9F5C910A74507330C3E3D38D91D97E780E156366D2F8E9)  
-[![](qrcodes/C2F6087578700AE3FB9F5C910A74507330C3E3D38D91D97E780E156366D2F8E9.png)](fdroidrepo://https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo?fingerprint=C2F6087578700AE3FB9F5C910A74507330C3E3D38D91D97E780E156366D2F8E9)  
+IgorKey/fdroid
 
 ---
 
@@ -1049,6 +587,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/Ilingu/fdroid/main/repo](https://raw.githubusercontent.com/Ilingu/fdroid/main/repo?fingerprint=B5C0C825BBB9C03A8119169CD997D003F472EA5B7EBA19E180CDEE0D798A1725)  
 [![](qrcodes/B5C0C825BBB9C03A8119169CD997D003F472EA5B7EBA19E180CDEE0D798A1725.png)](fdroidrepo://https://raw.githubusercontent.com/Ilingu/fdroid/main/repo?fingerprint=B5C0C825BBB9C03A8119169CD997D003F472EA5B7EBA19E180CDEE0D798A1725)  
+Ilingu/fdroid
 
 ---
 
@@ -1056,6 +595,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/NovySoft/fdroid-repo/main/repo](https://raw.githubusercontent.com/NovySoft/fdroid-repo/main/repo?fingerprint=B6D1CE7F0242DE737560D33078653249CC3F18127600AD72288E75D39A9EDEE3)  
 [![](qrcodes/B6D1CE7F0242DE737560D33078653249CC3F18127600AD72288E75D39A9EDEE3.png)](fdroidrepo://https://raw.githubusercontent.com/NovySoft/fdroid-repo/main/repo?fingerprint=B6D1CE7F0242DE737560D33078653249CC3F18127600AD72288E75D39A9EDEE3)  
+NovySoft/fdroid-repo
 
 ---
 
@@ -1063,20 +603,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo](https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo?fingerprint=A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6)  
 [![](qrcodes/A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6.png)](fdroidrepo://https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo?fingerprint=A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6)  
-
----
-
-### sample repo
-
-[https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo](https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo?fingerprint=A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6)  
-[![](qrcodes/A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6.png)](fdroidrepo://https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo?fingerprint=A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6)  
-
----
-
-### sample repo
-
-[https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo](https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo?fingerprint=A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6)  
-[![](qrcodes/A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6.png)](fdroidrepo://https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo?fingerprint=A5AC2C1391C1F30AC69698AD3BC954C0AA4E009B28722BF83B968C6D1E4F85D6)  
+PaulMayero/repomaker-fdroid
 
 ---
 
@@ -1084,6 +611,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/RaminAfhami993/fdroid/master/repo](https://raw.githubusercontent.com/RaminAfhami993/fdroid/master/repo?fingerprint=70377D8B3435D509ADCC987840AF4E1907E6EEC15EE27C66F9FBBE7C8AED56E6)  
 [![](qrcodes/70377D8B3435D509ADCC987840AF4E1907E6EEC15EE27C66F9FBBE7C8AED56E6.png)](fdroidrepo://https://raw.githubusercontent.com/RaminAfhami993/fdroid/master/repo?fingerprint=70377D8B3435D509ADCC987840AF4E1907E6EEC15EE27C66F9FBBE7C8AED56E6)  
+RaminAfhami993/fdroid
 
 ---
 
@@ -1091,6 +619,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/ThatFinnDev/fullcodesfdroid/main/repo](https://raw.githubusercontent.com/ThatFinnDev/fullcodesfdroid/main/repo?fingerprint=D5BF9498AEB322FEE69C042CB4645D74102D53473EE3ACE394ED5BBD19AC316E)  
 [![](qrcodes/D5BF9498AEB322FEE69C042CB4645D74102D53473EE3ACE394ED5BBD19AC316E.png)](fdroidrepo://https://raw.githubusercontent.com/ThatFinnDev/fullcodesfdroid/main/repo?fingerprint=D5BF9498AEB322FEE69C042CB4645D74102D53473EE3ACE394ED5BBD19AC316E)  
+ThatFinnDev/fullcodesfdroid
 
 ---
 
@@ -1098,6 +627,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/andrekir/fdroid/main/repo](https://raw.githubusercontent.com/andrekir/fdroid/main/repo?fingerprint=754F0DB965CDABC708EE1D56A5B633D47185D483118C1C8CEF21E8207AD85018)  
 [![](qrcodes/754F0DB965CDABC708EE1D56A5B633D47185D483118C1C8CEF21E8207AD85018.png)](fdroidrepo://https://raw.githubusercontent.com/andrekir/fdroid/main/repo?fingerprint=754F0DB965CDABC708EE1D56A5B633D47185D483118C1C8CEF21E8207AD85018)  
+andrekir/fdroid
 
 ---
 
@@ -1105,6 +635,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/candyman1/fdroidRepo1/master/repo](https://raw.githubusercontent.com/candyman1/fdroidRepo1/master/repo?fingerprint=70F2FBCDC338270045BB0C5FDAF51E67243724489B59AC4A6D4C6796F3A2305C)  
 [![](qrcodes/70F2FBCDC338270045BB0C5FDAF51E67243724489B59AC4A6D4C6796F3A2305C.png)](fdroidrepo://https://raw.githubusercontent.com/candyman1/fdroidRepo1/master/repo?fingerprint=70F2FBCDC338270045BB0C5FDAF51E67243724489B59AC4A6D4C6796F3A2305C)  
+candyman1/fdroidRepo1
 
 ---
 
@@ -1112,13 +643,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo](https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo?fingerprint=3576596CECDD70488D61CFD90799A49B7FFD26A81A8FEF1BADEC88D069FA72C1)  
 [![](qrcodes/3576596CECDD70488D61CFD90799A49B7FFD26A81A8FEF1BADEC88D069FA72C1.png)](fdroidrepo://https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo?fingerprint=3576596CECDD70488D61CFD90799A49B7FFD26A81A8FEF1BADEC88D069FA72C1)  
-
----
-
-### totalcmd
-
-[https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo](https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo?fingerprint=3576596CECDD70488D61CFD90799A49B7FFD26A81A8FEF1BADEC88D069FA72C1)  
-[![](qrcodes/3576596CECDD70488D61CFD90799A49B7FFD26A81A8FEF1BADEC88D069FA72C1.png)](fdroidrepo://https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo?fingerprint=3576596CECDD70488D61CFD90799A49B7FFD26A81A8FEF1BADEC88D069FA72C1)  
+chrisgch/tca
 
 ---
 
@@ -1126,13 +651,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo](https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo?fingerprint=7F1E1DC03B47BE5AE0C4D977B93B4137FA1149EAB8A562CA0EBC2764844113DE)  
 [![](qrcodes/7F1E1DC03B47BE5AE0C4D977B93B4137FA1149EAB8A562CA0EBC2764844113DE.png)](fdroidrepo://https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo?fingerprint=7F1E1DC03B47BE5AE0C4D977B93B4137FA1149EAB8A562CA0EBC2764844113DE)  
-
----
-
-### totalcmd-beta
-
-[https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo](https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo?fingerprint=7F1E1DC03B47BE5AE0C4D977B93B4137FA1149EAB8A562CA0EBC2764844113DE)  
-[![](qrcodes/7F1E1DC03B47BE5AE0C4D977B93B4137FA1149EAB8A562CA0EBC2764844113DE.png)](fdroidrepo://https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo?fingerprint=7F1E1DC03B47BE5AE0C4D977B93B4137FA1149EAB8A562CA0EBC2764844113DE)  
+chrisgch/tcabeta
 
 ---
 
@@ -1140,6 +659,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo](https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo?fingerprint=ADF81D678267B1F030EC691748B31D977BA4F3E9DA5520FD19066AB9503B9993)  
 [![](qrcodes/ADF81D678267B1F030EC691748B31D977BA4F3E9DA5520FD19066AB9503B9993.png)](fdroidrepo://https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo?fingerprint=ADF81D678267B1F030EC691748B31D977BA4F3E9DA5520FD19066AB9503B9993)  
+efreak/auto-daily-fdroid
 
 ---
 
@@ -1147,6 +667,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo?fingerprint=EC43610D9ACCA5D2426EB2D5EB74331930014DE79D3C3ACBC17DFE58AA12605F)  
 [![](qrcodes/EC43610D9ACCA5D2426EB2D5EB74331930014DE79D3C3ACBC17DFE58AA12605F.png)](fdroidrepo://https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo?fingerprint=EC43610D9ACCA5D2426EB2D5EB74331930014DE79D3C3ACBC17DFE58AA12605F)  
+iodeOS/fdroid
 
 ---
 
@@ -1154,6 +675,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/jackbonadies/seekerandroid/fdroid/fdroid/repo](https://raw.githubusercontent.com/jackbonadies/seekerandroid/fdroid/fdroid/repo?fingerprint=D9613C106A63D632F0F15597F4A91C276D3C6ED152F19518C3A5573BF8DA2375)  
 [![](qrcodes/D9613C106A63D632F0F15597F4A91C276D3C6ED152F19518C3A5573BF8DA2375.png)](fdroidrepo://https://raw.githubusercontent.com/jackbonadies/seekerandroid/fdroid/fdroid/repo?fingerprint=D9613C106A63D632F0F15597F4A91C276D3C6ED152F19518C3A5573BF8DA2375)  
+jackbonadies/seekerandroid
 
 ---
 
@@ -1161,13 +683,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo/master/fdroid/repo](https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo/master/fdroid/repo?fingerprint=313BE07AD85EE4BFFF088F0F47A3B672194C640A20AD974F1264E94D1F1894BC)  
 [![](qrcodes/313BE07AD85EE4BFFF088F0F47A3B672194C640A20AD974F1264E94D1F1894BC.png)](fdroidrepo://https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo/master/fdroid/repo?fingerprint=313BE07AD85EE4BFFF088F0F47A3B672194C640A20AD974F1264E94D1F1894BC)  
-
----
-
-### MangaVolumeTrackerRepo
-
-[https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo/master/fdroid/repo](https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo/master/fdroid/repo?fingerprint=313BE07AD85EE4BFFF088F0F47A3B672194C640A20AD974F1264E94D1F1894BC)  
-[![](qrcodes/313BE07AD85EE4BFFF088F0F47A3B672194C640A20AD974F1264E94D1F1894BC.png)](fdroidrepo://https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo/master/fdroid/repo?fingerprint=313BE07AD85EE4BFFF088F0F47A3B672194C640A20AD974F1264E94D1F1894BC)  
+kbitGit/MangaVolumeTrackerRepo
 
 ---
 
@@ -1175,6 +691,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/lucasew/fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/lucasew/fdroid-repo/master/fdroid/repo?fingerprint=0F9504BD6842142EC7132DE9771863F62BB061B916ECF35C48D887C501E34A0E)  
 [![](qrcodes/0F9504BD6842142EC7132DE9771863F62BB061B916ECF35C48D887C501E34A0E.png)](fdroidrepo://https://raw.githubusercontent.com/lucasew/fdroid-repo/master/fdroid/repo?fingerprint=0F9504BD6842142EC7132DE9771863F62BB061B916ECF35C48D887C501E34A0E)  
+lucasew/fdroid-repo
 
 ---
 
@@ -1182,6 +699,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/madushan1000/fdroid-repo/master/repo](https://raw.githubusercontent.com/madushan1000/fdroid-repo/master/repo?fingerprint=4F19C3A6A650D525CE8FA8B789DCC88CA04F93CC468476C4011CA3A82104788B)  
 [![](qrcodes/4F19C3A6A650D525CE8FA8B789DCC88CA04F93CC468476C4011CA3A82104788B.png)](fdroidrepo://https://raw.githubusercontent.com/madushan1000/fdroid-repo/master/repo?fingerprint=4F19C3A6A650D525CE8FA8B789DCC88CA04F93CC468476C4011CA3A82104788B)  
+madushan1000/fdroid-repo
 
 ---
 
@@ -1189,13 +707,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/repo](https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/repo?fingerprint=1C36CF8B9C2C9C7F591D67780D08BA554EA49EC18F7D93668CCD48F733740004)  
 [![](qrcodes/1C36CF8B9C2C9C7F591D67780D08BA554EA49EC18F7D93668CCD48F733740004.png)](fdroidrepo://https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/repo?fingerprint=1C36CF8B9C2C9C7F591D67780D08BA554EA49EC18F7D93668CCD48F733740004)  
-
----
-
-### Malnvenshorn App Repository
-
-[https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/repo](https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/repo?fingerprint=1C36CF8B9C2C9C7F591D67780D08BA554EA49EC18F7D93668CCD48F733740004)  
-[![](qrcodes/1C36CF8B9C2C9C7F591D67780D08BA554EA49EC18F7D93668CCD48F733740004.png)](fdroidrepo://https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/repo?fingerprint=1C36CF8B9C2C9C7F591D67780D08BA554EA49EC18F7D93668CCD48F733740004)  
+malnvenshorn/fdroid-repository
 
 ---
 
@@ -1203,20 +715,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo](https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo?fingerprint=005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2)  
 [![](qrcodes/005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2.png)](fdroidrepo://https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo?fingerprint=005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2)  
-
----
-
-### ZeroNet
-
-[https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo](https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo?fingerprint=005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2)  
-[![](qrcodes/005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2.png)](fdroidrepo://https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo?fingerprint=005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2)  
-
----
-
-### ZeroNet
-
-[https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo](https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo?fingerprint=005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2)  
-[![](qrcodes/005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2.png)](fdroidrepo://https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo?fingerprint=005E888A5A203D40E28F372B939B8E5995FB29081EFC845DB99A8D4C14B509E2)  
+mkg20001/zeronet-fdroid
 
 ---
 
@@ -1224,13 +723,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/nilscc/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/nilscc/fdroid/master/fdroid/repo?fingerprint=57E403CEA470C1C6E344F8B709A2FDB74EB806B1785C8C7C32FEF5B702C9CB43)  
 [![](qrcodes/57E403CEA470C1C6E344F8B709A2FDB74EB806B1785C8C7C32FEF5B702C9CB43.png)](fdroidrepo://https://raw.githubusercontent.com/nilscc/fdroid/master/fdroid/repo?fingerprint=57E403CEA470C1C6E344F8B709A2FDB74EB806B1785C8C7C32FEF5B702C9CB43)  
-
----
-
-### nils.cc
-
-[https://raw.githubusercontent.com/nilscc/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/nilscc/fdroid/master/fdroid/repo?fingerprint=57E403CEA470C1C6E344F8B709A2FDB74EB806B1785C8C7C32FEF5B702C9CB43)  
-[![](qrcodes/57E403CEA470C1C6E344F8B709A2FDB74EB806B1785C8C7C32FEF5B702C9CB43.png)](fdroidrepo://https://raw.githubusercontent.com/nilscc/fdroid/master/fdroid/repo?fingerprint=57E403CEA470C1C6E344F8B709A2FDB74EB806B1785C8C7C32FEF5B702C9CB43)  
+nilscc/fdroid
 
 ---
 
@@ -1238,6 +731,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/noobmaster1112/fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/noobmaster1112/fdroid-repo/master/fdroid/repo?fingerprint=DA64D22D670F319B5558CACA17D4128C12A6A81BFBF65A585F9D840763C1AD13)  
 [![](qrcodes/DA64D22D670F319B5558CACA17D4128C12A6A81BFBF65A585F9D840763C1AD13.png)](fdroidrepo://https://raw.githubusercontent.com/noobmaster1112/fdroid-repo/master/fdroid/repo?fingerprint=DA64D22D670F319B5558CACA17D4128C12A6A81BFBF65A585F9D840763C1AD13)  
+noobmaster1112/fdroid-repo
 
 ---
 
@@ -1245,20 +739,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo](https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo?fingerprint=A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF)  
 [![](qrcodes/A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF.png)](fdroidrepo://https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo?fingerprint=A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF)  
-
----
-
-### Nucleus-F-Droid-Repo
-
-[https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo](https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo?fingerprint=A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF)  
-[![](qrcodes/A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF.png)](fdroidrepo://https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo?fingerprint=A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF)  
-
----
-
-### Nucleus-F-Droid-Repo
-
-[https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo](https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo?fingerprint=A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF)  
-[![](qrcodes/A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF.png)](fdroidrepo://https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo?fingerprint=A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF)  
+nucleus-ffm/Nucleus-F-Droid-Repo
 
 ---
 
@@ -1266,6 +747,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/ohidurbappy/fdroid/main/fdroid/repo](https://raw.githubusercontent.com/ohidurbappy/fdroid/main/fdroid/repo?fingerprint=9B0BB9847CC7B7D0E9EC6BA1C7A0CA8CB8C8F1A802B05EC4499190C39AA4BAAC)  
 [![](qrcodes/9B0BB9847CC7B7D0E9EC6BA1C7A0CA8CB8C8F1A802B05EC4499190C39AA4BAAC.png)](fdroidrepo://https://raw.githubusercontent.com/ohidurbappy/fdroid/main/fdroid/repo?fingerprint=9B0BB9847CC7B7D0E9EC6BA1C7A0CA8CB8C8F1A802B05EC4499190C39AA4BAAC)  
+ohidurbappy/fdroid
 
 ---
 
@@ -1273,13 +755,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo?fingerprint=86246B29F1BC18A6B4C8697F540E33A82F6A4FE4E9C582F0DF392A2BC996E392)  
 [![](qrcodes/86246B29F1BC18A6B4C8697F540E33A82F6A4FE4E9C582F0DF392A2BC996E392.png)](fdroidrepo://https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo?fingerprint=86246B29F1BC18A6B4C8697F540E33A82F6A4FE4E9C582F0DF392A2BC996E392)  
-
----
-
-### Malila Apps
-
-[https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo?fingerprint=86246B29F1BC18A6B4C8697F540E33A82F6A4FE4E9C582F0DF392A2BC996E392)  
-[![](qrcodes/86246B29F1BC18A6B4C8697F540E33A82F6A4FE4E9C582F0DF392A2BC996E392.png)](fdroidrepo://https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo?fingerprint=86246B29F1BC18A6B4C8697F540E33A82F6A4FE4E9C582F0DF392A2BC996E392)  
+parnikkapore/fdroid
 
 ---
 
@@ -1287,13 +763,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo?fingerprint=8B222637DCB9C13B4AC52C8B9AC83C1FA387F03F46B61B5339B3AA9668F750CD)  
 [![](qrcodes/8B222637DCB9C13B4AC52C8B9AC83C1FA387F03F46B61B5339B3AA9668F750CD.png)](fdroidrepo://https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo?fingerprint=8B222637DCB9C13B4AC52C8B9AC83C1FA387F03F46B61B5339B3AA9668F750CD)  
-
----
-
-### Rafael Venâncio
-
-[https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo?fingerprint=8B222637DCB9C13B4AC52C8B9AC83C1FA387F03F46B61B5339B3AA9668F750CD)  
-[![](qrcodes/8B222637DCB9C13B4AC52C8B9AC83C1FA387F03F46B61B5339B3AA9668F750CD.png)](fdroidrepo://https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo?fingerprint=8B222637DCB9C13B4AC52C8B9AC83C1FA387F03F46B61B5339B3AA9668F750CD)  
+rafaelvenancio98/fdroid
 
 ---
 
@@ -1301,13 +771,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049)  
 [![](qrcodes/EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049.png)](fdroidrepo://https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049)  
-
----
-
-### Simlar F-Droid Repo
-
-[https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo](https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049)  
-[![](qrcodes/EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049.png)](fdroidrepo://https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo?fingerprint=EE2C075BAE1D41BBD9C2195C4CAE140C789C9ED2E0D6C6A569108E81F625D049)  
+simlar/simlar-fdroid-repo
 
 ---
 
@@ -1315,27 +779,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
 [![](qrcodes/7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1.png)](fdroidrepo://https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
-
----
-
-### SmartOfficeSchool
-
-[https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
-[![](qrcodes/7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1.png)](fdroidrepo://https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
-
----
-
-### SmartOfficeSchool
-
-[https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
-[![](qrcodes/7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1.png)](fdroidrepo://https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
-
----
-
-### SmartOfficeSchool
-
-[https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo](https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
-[![](qrcodes/7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1.png)](fdroidrepo://https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo?fingerprint=7A9DD51A701C7485D671FB5029A83C3A3A2B81C754F4B077AD1CA12C6FE80EE1)  
+smartofficeschool/fdroid
 
 ---
 
@@ -1343,6 +787,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/vaginessa/fdroid-1/gh-pages/repo](https://raw.githubusercontent.com/vaginessa/fdroid-1/gh-pages/repo?fingerprint=C416F157C1AADEBE62E533C3EDBBB202CA8F7126FF0A3927E60C1CDE962C818D)  
 [![](qrcodes/C416F157C1AADEBE62E533C3EDBBB202CA8F7126FF0A3927E60C1CDE962C818D.png)](fdroidrepo://https://raw.githubusercontent.com/vaginessa/fdroid-1/gh-pages/repo?fingerprint=C416F157C1AADEBE62E533C3EDBBB202CA8F7126FF0A3927E60C1CDE962C818D)  
+vaginessa/fdroid-1
 
 ---
 
@@ -1350,13 +795,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo](https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo?fingerprint=5D0A26CFDE212D5F5734F18A432619C8BF789B7AE3F75630168E33A3B9946D87)  
 [![](qrcodes/5D0A26CFDE212D5F5734F18A432619C8BF789B7AE3F75630168E33A3B9946D87.png)](fdroidrepo://https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo?fingerprint=5D0A26CFDE212D5F5734F18A432619C8BF789B7AE3F75630168E33A3B9946D87)  
-
----
-
-### Vineel Sai's F-Droid Repo
-
-[https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo](https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo?fingerprint=5D0A26CFDE212D5F5734F18A432619C8BF789B7AE3F75630168E33A3B9946D87)  
-[![](qrcodes/5D0A26CFDE212D5F5734F18A432619C8BF789B7AE3F75630168E33A3B9946D87.png)](fdroidrepo://https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo?fingerprint=5D0A26CFDE212D5F5734F18A432619C8BF789B7AE3F75630168E33A3B9946D87)  
+vineelsai26/repo
 
 ---
 
@@ -1364,6 +803,7 @@ Additional F-droid repos one may want to use. ⭐
 
 [https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo](https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo?fingerprint=080898AE4309AECEB58915E43A4B7C4A3E2CDA40C91738E2C02F58339AB2FBD7)  
 [![](qrcodes/080898AE4309AECEB58915E43A4B7C4A3E2CDA40C91738E2C02F58339AB2FBD7.png)](fdroidrepo://https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo?fingerprint=080898AE4309AECEB58915E43A4B7C4A3E2CDA40C91738E2C02F58339AB2FBD7)  
+xarantolus/fdroid
 
 ---
 
@@ -1451,31 +891,10 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### Rohit's F-Droid Repository
-
-[https://thedoc.eu.org/fdroid/repo](https://thedoc.eu.org/fdroid/repo?fingerprint=B1358F5B942E5676B2935B83F39E3BAA363F3FDA9E53DB62113551D14B09A173)  
-[![](qrcodes/B1358F5B942E5676B2935B83F39E3BAA363F3FDA9E53DB62113551D14B09A173.png)](fdroidrepo://https://thedoc.eu.org/fdroid/repo?fingerprint=B1358F5B942E5676B2935B83F39E3BAA363F3FDA9E53DB62113551D14B09A173)  
-
----
-
 ### Thunderbird F-Droid repository
 
 [https://thunderbird.github.io/fdroid-thunderbird/repo](https://thunderbird.github.io/fdroid-thunderbird/repo?fingerprint=8B86E5D48983F0875F7EB7A1B2F91B225EE5B997E463E3D63D0E2556E53666BE)  
 [![](qrcodes/8B86E5D48983F0875F7EB7A1B2F91B225EE5B997E463E3D63D0E2556E53666BE.png)](fdroidrepo://https://thunderbird.github.io/fdroid-thunderbird/repo?fingerprint=8B86E5D48983F0875F7EB7A1B2F91B225EE5B997E463E3D63D0E2556E53666BE)  
-
----
-
-### Unofficial ProtonMail repository
-
-[https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo](https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo?fingerprint=AA2CCA4D529D30418ECFE6C36C378C785DFF9696DF981A0883A953780A3CA221)  
-[![](qrcodes/AA2CCA4D529D30418ECFE6C36C378C785DFF9696DF981A0883A953780A3CA221.png)](fdroidrepo://https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo?fingerprint=AA2CCA4D529D30418ECFE6C36C378C785DFF9696DF981A0883A953780A3CA221)  
-
----
-
-### Unofficial ProtonMail repository
-
-[https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo](https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo?fingerprint=AA2CCA4D529D30418ECFE6C36C378C785DFF9696DF981A0883A953780A3CA221)  
-[![](qrcodes/AA2CCA4D529D30418ECFE6C36C378C785DFF9696DF981A0883A953780A3CA221.png)](fdroidrepo://https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo?fingerprint=AA2CCA4D529D30418ECFE6C36C378C785DFF9696DF981A0883A953780A3CA221)  
 
 ---
 
@@ -1521,14 +940,14 @@ Additional F-droid repos one may want to use. ⭐
 
 ---
 
-### [ΛИ0ИΞR0]
+### [ΛИ0ИΞR0] (🧅⁠Tor)
 
 [http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo](http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo?fingerprint=C5705FF724538F6925B6093517F53C6C6BB6CF82518ED40EB4B8CBBB87DC0D1D)  
 [![](qrcodes/C5705FF724538F6925B6093517F53C6C6BB6CF82518ED40EB4B8CBBB87DC0D1D.png)](fdroidrepo://http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo?fingerprint=C5705FF724538F6925B6093517F53C6C6BB6CF82518ED40EB4B8CBBB87DC0D1D)  
 
 ---
 
-### Official Mysu F-Droid Repo
+### Official Mysu F-Droid Repo (🧅⁠Tor)
 
 [http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/fdroid/repo](http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/fdroid/repo?fingerprint=0C72C540E5841030FAE32329A1BC8747DCAC5236E4D1AAEDB67735CA7B7DD3D6)  
 [![](qrcodes/0C72C540E5841030FAE32329A1BC8747DCAC5236E4D1AAEDB67735CA7B7DD3D6.png)](fdroidrepo://http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/fdroid/repo?fingerprint=0C72C540E5841030FAE32329A1BC8747DCAC5236E4D1AAEDB67735CA7B7DD3D6)  
